@@ -1,0 +1,36 @@
+body{
+    background-color:black;
+}
+
+h2{
+    background-color:black; color: white;
+    font-family: "Lugrasimo", "consolas", "sans-serif"; 
+    border-top-style:groove;
+    border-bottom-style: groove;
+    border-left-style:double;
+    border-right-style:double;
+    border-radius: 40px; 
+}
+
+p{
+    background-color: gray; color: white;
+}
+
+#p1{
+    color: yellowgreen
+}
+
+.even{
+    color: brown;
+}
+
+.odd{
+    color: #00ff73;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+    font-style: initial;
+    font-weight: 500;
+    text-align:justify;
+    text-shadow: 9cap;
+    text-decoration: dotted underline;
+}
